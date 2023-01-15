@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev3160_010" id="3848235993" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei, irmãozinho. Tá se sentindo melhor?
+    </text>
+    <text name="ev3160_020" id="3848236120" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sim. Essa experiência toda me deu mais clareza.
+    </text>
+    <text name="ev3160_030" id="3848236247" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Quando tudo isso acabar... acho que preciso passar um tempo sozinho.
+      Não vou alcançar todo o meu potencial se continuar dependendo de você.
+    </text>
+    <text name="ev3160_040" id="3848236374" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Se não tiver problema!
+    </text>
+    <text name="ev3160_050" id="3848236501" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_060" id="3848236628" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você é livre pra seguir seu caminho. 
+      Acho que me apeguei a você mais rápido do que eu esperava.
+    </text>
+    <text name="ev3160_070" id="3848236755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá dizendo que te superei?
+    </text>
+    <text name="ev3160_080" id="3848236882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, não exagera.
+    </text>
+    <text name="ev3160_090" id="3848237009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vou ter que me acostumar, mas torço por você e as suas futuras conquistas, parceiro.
+    </text>
+    <text name="ev3160_100" id="3848251995" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_110" id="3848252122" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_120" id="3848252249" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uma amizade tão bonita. Uma família nascida do amor, não da genética. É tudo o que eu quero...
+      Queria nunca ter visto isso. Era tão mais fácil aceitar o futuro quando eram simples inimigos.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

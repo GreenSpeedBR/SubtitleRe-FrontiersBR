@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ko1100_010" id="2765229268" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Olá de novo, Sonic.
+    </text>
+    <text name="ko1100_020" id="2765229395" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Por favor, encontre quantos Kocos você puder e traga-os para mim.
+    </text>
+    <text name="ko1100_030" id="2765229522" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eles podem ser um pouco tímidos e ariscos, então procure em todos os lugares!
+    </text>
+    <text name="ko1100_040" id="2765229649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bem-vindos de volta, meus caros Kocos!
+      Obrigado, Sonic. O que acha de ganhar mais poder?
+    </text>
+    <text name="ko1100_050" id="2765229776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Já fiz tudo ao meu alcance, e mesmo assim você continua trazendo mais Kocos para casa?
+      Você é um verdadeiro herói, Sonic, e tem minha mais profunda gratidão.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

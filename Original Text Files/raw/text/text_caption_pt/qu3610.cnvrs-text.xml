@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="qu3610_010" id="3075197526" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O que você fez causou uma erupção! A lava dissipou a formação de nuvens e revelou... alguma coisa... 
+    </text>
+    <text name="qu3610_020" id="3075197653" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Já vi minha cota de máquinas de fliperama. Eu reconheço um fliperama de longe.
+      Será que faziam parte das ruínas originais?
+    </text>
+    <text name="qu3610_030" id="3075197780" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Digo, a tecnologia daqui é mais avançada que a do Eggman e mais antiga que a antiguidade.
+      Acho que o amor pelo fliperama antecede a civilização.
+    </text>
+    <text name="qu3610_040" id="3075197907" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! Aquele Titã lá embaixo... você pretende mesmo enfrentar aquilo? Mesmo de Super Sonic,
+      aquela coisa é...
+    </text>
+    <text name="qu3610_050" id="3075198034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A responsável por manter você, a Amy e o Knuckles presos. Então sim, eu vou acabar com ela.
+    </text>
+    <text name="qu3610_060" id="3075198161" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aguenta firme, parceiro. Vou derrotar esse último Titã e fazer todo mundo voltar ao normal!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

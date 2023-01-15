@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3060_010" id="1439841718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Estamos chegando ao último Titã! Quer apostar em quem vai vencer dessa vez?
+    </text>
+    <text name="sb3060_020" id="1439841845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Recalculando.
+      Sua chance de vitória aumentou de "impossível" para "muito improvável".
+    </text>
+    <text name="sb3060_030" id="1439841972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É esse tipo de estatística que eu gosto de superar!
+    </text>
+    <text name="sb3060_040" id="1439842099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então eles foram construídos pelos Anciões também, né?
+    </text>
+    <text name="sb3060_050" id="1439842226" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      São inimigos bem poderosos. Será que conseguiram derrotar os inimigos dos Anciões?
+    </text>
+    <text name="sb3060_060" id="1439842353" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Só espero que a próxima vítima deles seja você.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

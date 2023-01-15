@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="fi0010_010" id="2847150162" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, oi, Sonic!
+      Veio aqui pescar também?
+    </text>
+    <text name="fi0010_020" id="2847150289" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Big? O que tá fazendo aqui? COMO chegou aqui? Aliás, o que É aqui?!
+    </text>
+    <text name="fi0010_030" id="2847150416" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sei lá. Eu tava procurando um lugar pra pescar e acabei aqui.
+    </text>
+    <text name="fi0010_040" id="2847150543" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Então eu tô pescando agora.
+    </text>
+    <text name="fi0010_050" id="2847150670" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Como esperado.
+    </text>
+    <text name="fi0010_060" id="2847150797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Quer tentar? Te empresto uma vara de pesca.
+    </text>
+    <text name="fi0010_070" id="2847150924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que não faz mal relaxar um pouco.
+    </text>
+    <text name="fi0010_080" id="2847151051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você sabe pescar?
+      Te ensino se quiser!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

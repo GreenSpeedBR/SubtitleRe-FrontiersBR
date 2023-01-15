@@ -1,0 +1,57 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Brazilian Portuguese Localization Remastered - Settings",
+         "Elements": [
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Sonic Frontiers: The Real Sonic Frontiers Background Art »",
+               "Type": "System1",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak.000\\"
+            
+            },
+
+            {
+               "Name": "IncludeDir2",
+               "DisplayName": "Sonic Frontiers: Logo Remake (Improved) »",
+               "Type": "System2",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": ".\\pak.004\\"
+            
+            }
+         ]
+      }
+   ],
+   "Enums": {
+      "System1": [
+         {
+            "DisplayName": "Desligado",
+            "Value": ".\\pak.001\\"
+         },
+         {
+            "DisplayName": "Ligado (Visão de Perto)",
+            "Value": ".\\pak.003\\"
+         },
+         { 
+            "DisplayName": "Ligado (Visão de Longe)",
+            "Value": ".\\pak.000\\"
+         }
+      ],
+
+      "System2": [
+         {
+            "DisplayName": "Desligado",
+            "Value": ".\\pak.001\\"
+         },
+         {
+            "DisplayName": "Ligado",
+            "Value": ".\\pak.004\\"
+         }
+      ]
+   },
+   "IniFile": "mod.ini"
+}

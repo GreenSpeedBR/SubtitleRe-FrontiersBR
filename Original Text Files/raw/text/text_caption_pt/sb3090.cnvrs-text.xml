@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3090_010" id="1770702131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Olá outra vez. Já que ficamos tão próximos, que tal me ajudar?
+    </text>
+    <text name="sb3090_020" id="1770702258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Já fiz as simulações. Compartilhar dados não mudará o resultado.
+    </text>
+    <text name="sb3090_030" id="1770702385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você fica falando de chances e simulações, mas nós, seres vivos, não vivemos à base de cálculos.
+    </text>
+    <text name="sb3090_040" id="1770702512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A vontade de viver, o ímpeto de superar, o desejo de proteger quem você ama,
+      esse tipo de coisa tem um poder que você nem imagina.
+    </text>
+    <text name="sb3090_050" id="1770702639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Amor" pode ser convertido em "poder"? Tem algum dado para fundamentar essa conversão?
+    </text>
+    <text name="sb3090_060" id="1770702766" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não. É isso que faz ela ser milagrosa. Mas, se precisa mesmo de provas, vou fazer um milagre
+      no fim de tudo isso. Você vai ver!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

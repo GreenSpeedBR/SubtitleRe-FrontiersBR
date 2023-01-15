@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb3000_010" id="778120892" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O que eu não daria pra estudar essas tecnologias antigas direito. Hmm.
+      Isso aqui não parece ter sido uma arma de projéteis.
+    </text>
+    <text name="sb3000_020" id="778121019" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nada de balas de canhão antigas, então?
+      Pera... tá dizendo que isso é uma arma de feixe? Tipo a do Egg Carrier?
+    </text>
+    <text name="sb3000_030" id="778121146" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Exatamente. Pelo que percebi, ela tem bateria própria e não depende de fonte de energia externa.
+    </text>
+    <text name="sb3000_040" id="778121273" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E a capacidade dela é absurda. Dava pra nivelar uma montanha. É quase tão forte quanto o Canhão Eclipse!
+    </text>
+    <text name="sb3000_050" id="778121400" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas aquele canhão tava conectado no reator da ARK. Esse aqui é independente!
+      Os projetos dos Anciões são incríveis.
+    </text>
+    <text name="sb3000_060" id="778121527" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, é bem bacana e tudo, mas, digo, eles construíram essas coisas pra atirar em algo. Uau.
+      Que tipo de inimigo exige tanto poder de fogo pra derrotar?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

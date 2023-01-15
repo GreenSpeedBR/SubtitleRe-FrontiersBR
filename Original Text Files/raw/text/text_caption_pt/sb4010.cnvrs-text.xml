@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4010_010" id="3019470010" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Se eu entendi aquelas visões direito, os Anciões vieram do espaço, certo?
+    </text>
+    <text name="sb4010_020" id="3019470137" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E estavam usando coisas semelhantes aos Kocos, mas não pareciam tão... sei lá, "vivas"?
+      Você sabe o que os Kocos são na verdade?
+    </text>
+    <text name="sb4010_030" id="3019470264" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eles surgiram como amuletos da sorte para os Anciões. Não foram criados para conter dados... ou legado.
+    </text>
+    <text name="sb4010_040" id="3019470391" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, mas os Kocos que conheci têm as lembranças dos criadores deles.
+    </text>
+    <text name="sb4010_050" id="3019470518" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Talvez os Anciões tenham mudado eles. Ou talvez os Kocos quisessem manter as lembranças deles
+      quando partiram.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

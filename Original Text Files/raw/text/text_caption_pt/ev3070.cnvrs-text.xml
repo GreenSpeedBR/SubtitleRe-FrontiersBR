@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="ev3070_010" id="2837000535" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3070_020" id="2837000662" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei!
+    </text>
+    <text name="ev3070_030" id="2837000789" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oi. Esse Koco é aprendiz do maior piloto deles.
+      Ele precisa encontrar as peças necessárias pra finalizar as armas.
+    </text>
+    <text name="ev3070_040" id="2837000916" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Você já deve ter se deparado com esse tipo de situação. O que você fez?
+    </text>
+    <text name="ev3070_050" id="2837001043" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bom, eu ajudei eles.
+    </text>
+    <text name="ev3070_060" id="2837001170" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas isso não é... crueldade? A batalha deles acabou há tempos. Parece desonesto.
+    </text>
+    <text name="ev3070_070" id="2837001297" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não resolvemos o problema que eles acham que têm, 
+      mas trazemos paz.
+    </text>
+    <text name="ev3070_080" id="2837001424" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pensando por esse lado...
+    </text>
+    <text name="ev3070_090" id="2837001551" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vamos pôr a mão na massa!
+    </text>
+    <text name="ev3070_100" id="2837016537" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

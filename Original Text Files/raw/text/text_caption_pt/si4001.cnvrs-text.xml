@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si4000_007" id="1911346634" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Meus amigos já esperaram demais.
+    </text>
+    <text name="si4000_008" id="1911346635" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vocês estão quase livres, pessoal. 
+    </text>
+    <text name="si4000_009" id="1911346636" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Visões... tão nítidas. 
+    </text>
+    <text name="si4000_010" id="1911346754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Como se eu estivesse revivendo... não só assistindo. 
+    </text>
+    <text name="si4000_011" id="1911346755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Isso é real, né?
+    </text>
+    <text name="si4000_012" id="1911346756" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu ainda tô aqui, não tô?
+    </text>
+    <text name="si4000_013" id="1911346757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Isso é... isso é pelos... 
+    </text>
+    <text name="si4000_014" id="1911346758" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Meus amigos! Isso é pelos meus amigos. Não esquece!
+    </text>
+    <text name="si4000_015" id="1911346759" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      T-tá tão frio... dormente... 
+    </text>
+    <text name="si4000_016" id="1911346760" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aguenta... firme... continua... 
+    </text>
+    <text name="si4000_017" id="1911346761" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Objetivo... concluído... 
+    </text>
+    <text name="si4000_018" id="1911346762" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Meu nome é... meu nome é...?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

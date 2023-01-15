@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="qu2500_010" id="1143981911" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá vendo aquela vedação no centro do lago? Se a gente conseguir puxar, dá pra drenar a água.
+    </text>
+    <text name="qu2500_020" id="1143982038" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Só que eu ainda tô nesse estado espectral e você é inútil debaixo d'água.
+    </text>
+    <text name="qu2500_030" id="1143982165" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uau, valeu pela preocupação. Enfim, se eu conseguir empurrar o dispositivo
+      que tá segurando a corrente, talvez dê pra puxar.
+    </text>
+    <text name="qu2500_040" id="1143982292" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Vale a pena tentar. Só não vai escorregar e cair. Não vou poder tirar você de lá.
+    </text>
+    <text name="qu2510_010" id="4117580246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pera... Será que drenar o oásis foi uma boa ideia?
+    </text>
+    <text name="qu2510_020" id="4117580373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bom, você revelou o caminho. É isso que importa.
+    </text>
+    <text name="qu2510_030" id="4117580500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Disse o cara que não tá sentindo o calor. Pois bem... vamos ver quem chega primeiro à próxima esmeralda!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,9 @@
+Has Model naming support and Property settings as well as having Layer settings.
+
+@LYR(layer) For Materials
+@NAME(meshName) Meshes
+@PRP(propertyName, value) Meshes
+
+ex chr_Sonic@PRP(ShadowCa, true)@PRP(ShadowRe, true)
+   chr_Sonic_Mouth_L@NAME(Mesh_Mouth_L)
+   chr_Sonic_Mouth_R@NAME(Mesh_Mouth_R)

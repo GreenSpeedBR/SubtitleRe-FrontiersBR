@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4050_010" id="2028961462" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hoje em dia, temos mapas por satélite, mas acho que não são páreo pra downloads diretamente no cérebro.
+    </text>
+    <text name="sb4050_020" id="2028961589" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eu consigo levar numa boa agora que sei que é tecnologia alienígena, mas ainda acho um pouco estranho.
+      Tipo, por que não tem vila nenhuma se todo o resto é tão detalhado?
+    </text>
+    <text name="sb4050_030" id="2028961716" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Os Anciões tiveram dificuldades para se adaptar a este mundo.
+    </text>
+    <text name="sb4050_040" id="2028961843" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acostumar-se à nova flora e fauna, lidar com incompatibilidades tecnológicas... Os povoados estavam
+      em constante reestruturação. O mapa era um conhecimento universal das ilhas e suas instalações.
+    </text>
+    <text name="sb4050_050" id="2028961970" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Acho que faz sentido. E deve ser melhor limitar as informações
+      pra garantir que quem tem acesso é de confiança.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

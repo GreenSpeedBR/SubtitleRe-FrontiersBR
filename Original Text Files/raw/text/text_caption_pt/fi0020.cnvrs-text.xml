@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="fi0020_010" id="1525781201" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei, morderam sua isca.
+      Vou deixar você puxar a linha, Sonic.
+    </text>
+    <text name="fi0020_020" id="1525781328" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tá vendo a ondulação vermelha? Quando a ondulação branca ficar por cima da vermelha,
+      levanta a vara de pesca bem rápido. 
+    </text>
+    <text name="fi0020_050" id="1525781709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uau. Incrível! Você já conseguiu pegar!
+    </text>
+    <text name="fi0020_060" id="1525781836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Muito bem, Sonic! Posso dar uma ficha pra você em troca de qualquer peixe que pescar.
+    </text>
+    <text name="fi0020_065" id="1525781841">
+      Se você conseguir várias fichas, pode trocar por tesouros que encontrei. Você que sabe!
+    </text>
+    <text name="fi0020_070" id="1525781963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      O Froggy gosta muito daquelas moedas roxas. Se me trouxer uma, te empresto minha vara de pesca outra vez.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

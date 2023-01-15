@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="fish_019_name" id="907001" font="Range_FNT" layout="Range_LAY">
+      Celacanto
+    </text>
+    <text name="fish_115_explain" id="31823430" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Parece que Amy Rose se envolveu na situação.
+      Garota esperta. Tenaz. Ela evoluiu muito desde a época em que era só um peão nos meus planos de prender o Sonic. Parece que ela teve dificuldades para se encontrar. Mas, quando você convive com alguém que tem um ego tão grande quanto o Sonic, deve ser difícil encontrar a própria identidade.
+    </text>
+    <text name="fish_032_name" id="40288130" font="Range_FNT" layout="Range_LAY">
+      Bolota
+    </text>
+    <text name="fish_045_name" id="61015040" font="Range_FNT" layout="Range_LAY">
+      Tubarão-martelo de bolinhas
+    </text>
+    <text name="fish_058_name" id="81741950" font="Range_FNT" layout="Range_LAY">
+      Sapo grande multicolorido
+    </text>
+    <text name="fish_000_explain" id="155216577" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe pequeno com listras vermelhas. Comumente usado na culinária e também popular como bicho de estimação.
+    </text>
+    <text name="fish_097_name" id="162576899" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 4
+    </text>
+    <text name="fish_041_explain" id="203651262" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura do fundo do mar semelhante a um inseto. Ele vive nas profundezas do oceano, intocado pela luz. Seu metabolismo eficiente permite que ele sobreviva sem comida por anos, mesmo após uma refeição modesta.
+    </text>
+    <text name="fish_091_explain_1" id="230016395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Três cartas douradas? Isso sim é um tesouro!
+    </text>
+    <text name="fish_102_name" id="238439422" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 9
+    </text>
+    <text name="fish_115_name" id="259166332" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 22
+    </text>
+    <text name="fish_022_explain" id="272395201" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe enorme e de corpo achatado. Pode chegar a cerca de três metros de comprimento, embora sua constituição seja mais delicada do que parece. O peixe-lua jovem tem uma aparência em forma de estrela, que não se parece em nada com um adulto.
+    </text>
+    <text name="fish_009_name" id="311040504" font="Range_FNT" layout="Range_LAY">
+      Tartaruga-víbora
+    </text>
+    <text name="fish_003_explain" id="341139140" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura com garras poderosas, encontrada em água doce de movimento lento. Por ser onívoro, pode ser capturado com qualquer alimento que você tenha à mão.
+    </text>
+    <text name="fish_022_name" id="350421633" font="Range_FNT" layout="Range_LAY">
+      Peixe-lua
+    </text>
+    <text name="fish_035_name" id="371148543" font="Range_FNT" layout="Range_LAY">
+      Barracuda
+    </text>
+    <text name="fish_044_explain" id="389573825" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura aquática parecida com uma cobra. Tem dentes afiados e um temperamento feroz.
+    </text>
+    <text name="fish_048_name" id="391875453" font="Range_FNT" layout="Range_LAY">
+      Chopper pequeno
+    </text>
+    <text name="fish_085_explain" id="438008510">
+      Uma linda semente vermelha. Entregue-a ao Koco Eremita para aumentar o ataque do Sonic.
+    </text>
+    <text name="fish_100_explain" id="441165250" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Quem eram os Anciões? Eles vieram muito antes de qualquer outra civilização.
+      Os equidnas? Pfft.
+      Os Black Arms? Me poupe.
+      Os Babilônios? Até parece!
+      Mas a única influência que parecem ter tido no mundo foi nessas três ilhas insignificantes. Por quê? O que impediu que conquistassem o mundo?
+    </text>
+    <text name="fish_025_explain" id="458317764" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma mola vermelha comum. Pisar em uma impulsiona ainda mais alto do que uma mola amarela.
+    </text>
+    <text name="fish_006_explain" id="527061703" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura de pele lisa com oito braços e dois tentáculos. A lula pode mudar sutilmente a aparência para se esconder dos predadores.
+    </text>
+    <text name="fish_105_name" id="569299835" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 12
+    </text>
+    <text name="fish_047_explain" id="575496388" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma bolota prateada. A árvore de onde ela veio é prateada também?
+    </text>
+    <text name="fish_103_explain" id="627087813" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Alguma coisa exterminou os Anciões, disso eu tenho certeza.
+      Um evento catastrófico causou mudanças ambientais drásticas nas ilhas. Parece que tentaram reconstruir, mas estavam com os dias contados.
+      Foram extintos em uma geração.
+    </text>
+    <text name="fish_028_explain" id="644240327" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um marcador que rastreia quem passa por ele. Se você for derrotado depois de tocar em um, pode retornar à posição dele.
+    </text>
+    <text name="fish_012_name" id="660555136" font="Range_FNT" layout="Range_LAY">
+      Tamboril
+    </text>
+    <text name="fish_025_name" id="681282046" font="Range_FNT" layout="Range_LAY">
+      Mola vermelha
+    </text>
+    <text name="fish_038_name" id="702008956" font="Range_FNT" layout="Range_LAY">
+      Sapo venenoso
+    </text>
+    <text name="fish_009_explain" id="712984266" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma grande tartaruga que pode passar dos 75 cm de comprimento e dos 100 kg. É comumente encontrada em brejos e pântanos.
+    </text>
+    <text name="fish_051_name" id="741390085" font="Range_FNT" layout="Range_LAY">
+      Celacanto dourado
+    </text>
+    <text name="fish_106_explain" id="813010376" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage está funcionando com eficiência máxima.
+      Isso me faz questionar onde foi que eu errei com Orbot e Cubot. Além de assumir o controle da rede dos Anciões, ela está atormentando o Sonic também! Maravilha!
+    </text>
+    <text name="fish_090_name" id="822225034" font="Range_FNT" layout="Range_LAY">
+      Caixa de tesouro
+    </text>
+    <text name="fish_010_explain" id="867659584" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe muito bom para comer. Seus ovos são considerados uma iguaria em alguns lugares. Embora sua carne seja pálida no início, ela fica alaranjada com o tempo devido aos pigmentos nos alimentos que ingere.
+    </text>
+    <text name="fish_108_name" id="900160248" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 15
+    </text>
+    <text name="fish_051_explain" id="916094269" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um celacanto com um brilho dourado. Embora muito bonito, não é adequado para aquários domésticos, pois os flashes de luz não deixariam ninguém dormir à noite.
+    </text>
+    <text name="fish_092_explain" id="964528954" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um pergaminho escrito pelo Koco Ancestral.
+      Leve o pergaminho de volta à ilha para desbloquear a viagem rápida até o Koco Ancestral.
+    </text>
+    <text name="fish_002_name" id="970688639" font="Range_FNT" layout="Range_LAY">
+      Peixe-arroz japonês
+    </text>
+    <text name="fish_032_explain" id="984838208" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma semente de carvalho. Algumas são redondas, enquanto outras são longas e finas. Um objeto não muito interessante.
+    </text>
+    <text name="fish_015_name" id="991415549" font="Range_FNT" layout="Range_LAY">
+      Siri
+    </text>
+    <text name="fish_109_explain" id="998932939" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage tem sido fundamental para a minha sobrevivência aqui no Ciberespaço. Ela me avisa de entidades hostis com antecedência, me guia pelos firewalls, me atualiza sobre o progresso no mundo real... Ela é demais.
+      "Ela?"
+      "Aquilo". Aquilo é um programa.
+      Um programa adorável. Um programa muito simpático. Um... hmm. Será que... ela... tem uma preferência?
+    </text>
+    <text name="fish_028_name" id="1012142459" font="Range_FNT" layout="Range_LAY">
+      Marcador Estrela de Ponto
+    </text>
+    <text name="fish_041_name" id="1051523588" font="Range_FNT" layout="Range_LAY">
+      Isópode gigante
+    </text>
+    <text name="fish_013_explain" id="1053582147" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Este molusco de oito tentáculos é considerado uma iguaria por alguns. Como a lula, quando ameaçado, ele dispara tinta, confundindo temporariamente os sentidos de seu inimigo natural, a moreia.
+    </text>
+    <text name="fish_054_name" id="1072250498" font="Range_FNT" layout="Range_LAY">
+      Tamboril reluzente
+    </text>
+    <text name="fish_054_explain" id="1102016832" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um pequeno tamboril reluzente. Embora os maiores possam parecer bastante cruéis, eles são muito mais fofos na forma compacta.
+    </text>
+    <text name="fish_095_explain" id="1150451517" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      O que esses veículos militares da GUN estão fazendo aqui? Sage me ajudou a evitar a pior parte, e não parece ter tripulação. É um mecanismo de defesa? Preciso descobrir mais detalhes.
+    </text>
+    <text name="fish_093_name" id="1153085447" font="Range_FNT" layout="Range_LAY">
+      Pergaminho do Koco Eremita
+    </text>
+    <text name="fish_110_explain" id="1153608257" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Não cheguei a conhecer minha prima, Maria, direito.
+      Todo mundo falava que ela era muito especial. Todo aquele amor por alguém que já tinha partido, sendo que eu estava bem aqui!
+      Mas eu me pergunto: na época, será que ela era parecida com Sage?
+    </text>
+    <text name="fish_035_explain" id="1170760771" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe grande com uma boca grande e dentes afiados. Agressivo por natureza, é conhecido por atacar pessoas.
+    </text>
+    <text name="fish_016_explain" id="1239504710" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura de dentes afiados selvagem e carnívora. Vivem perto de pântanos e lagoas e se enterram na lama para sobreviver aos períodos de seca.
+    </text>
+    <text name="fish_111_name" id="1249674880" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 18
+    </text>
+    <text name="fish_057_explain" id="1287939395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe-lua listrado. Seu corpo grande torna as listras impressionantes até mesmo debaixo d'água.
+    </text>
+    <text name="fish_005_name" id="1301549052" font="Range_FNT" layout="Range_LAY">
+      Peixe-palhaço
+    </text>
+    <text name="fish_018_name" id="1322275962" font="Range_FNT" layout="Range_LAY">
+      Carpa-comum
+    </text>
+    <text name="fish_098_explain" id="1336374080" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      É oficial, estou com inveja. Toda esta extensão foi construída pela raça ancestral que povoou estas ilhas no passado! O nível de tecnologia é completamente desconhecido para mim, então não é possível recuperar... ainda.
+    </text>
+    <text name="fish_113_explain" id="1339530820" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      O Sonic está na ilha.
+      É claro que o Sonic está na ilha.
+      Não me lembro da última vez que tive uma boa noite de tramas sem ele para atrapalhar. Mesmo assim, para uma criatura orgânica, atingir a velocidade do som por vontade própria é impressionante.
+      Sou homem o bastante para admitir isso.
+    </text>
+    <text name="fish_038_explain" id="1356683334" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um sapo de cores vivas e extremamente venenoso. Tenha cuidado ao se deparar com estas criaturas perigosas.
+    </text>
+    <text name="fish_031_name" id="1361657091" font="Range_FNT" layout="Range_LAY">
+      Galho
+    </text>
+    <text name="fish_044_name" id="1382384001" font="Range_FNT" layout="Range_LAY">
+      Moreia
+    </text>
+    <text name="fish_057_name" id="1403110911" font="Range_FNT" layout="Range_LAY">
+      Peixe-lua listrado
+    </text>
+    <text name="fish_019_explain" id="1425427273" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe enorme, às vezes chamado de fóssil vivo devido à sua falta de evolução desde os tempos antigos. Ainda não se sabe muito sobre ele, o que atrai amplo interesse científico e público.
+    </text>
+    <text name="fish_096_name" id="1483945860" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 3
+    </text>
+    <text name="fish_116_explain" id="1525453383" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Knuckles está aqui também.
+      Aquele caipira.
+      O pavio curto dele é um problema, mas também vem a calhar quando eu consigo manipulá-lo na direção certa. Espera! Se ele está aqui, significa que a Esmeralda Mestre está desprotegida! O poder dela será meu!
+      Ah. Não, espera. Estou preso aqui. Droga.
+    </text>
+    <text name="fish_101_name" id="1559808383" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 8
+    </text>
+    <text name="fish_020_explain" id="1580102591" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe de corpo muito longo. Sua aparência marcante pode ter inspirado histórias de criaturas marinhas lendárias.
+    </text>
+    <text name="fish_114_name" id="1580535293" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 21
+    </text>
+    <text name="fish_008_name" id="1632409465" font="Range_FNT" layout="Range_LAY">
+      Carpa
+    </text>
+    <text name="fish_001_explain" id="1648846530" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe comumente encontrado em rios e córregos. Ele usa suas antenas longas, parecidas com bigodes, para procurar comida. Seu corpo escuro é revestido com uma camada de lodo.
+    </text>
+    <text name="fish_021_name" id="1671790594" font="Range_FNT" layout="Range_LAY">
+      Atum
+    </text>
+    <text name="fish_034_name" id="1692517504" font="Range_FNT" layout="Range_LAY">
+      Pneu
+    </text>
+    <text name="fish_042_explain" id="1697281215" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Como o nome sugere, este tubarão tem uma cabeça em forma de martelo. Aparentemente, isso o torna mais sensível a sinais elétricos do que outros tubarões.
+    </text>
+    <text name="fish_047_name" id="1713244414" font="Range_FNT" layout="Range_LAY">
+      Bolota prateada
+    </text>
+    <text name="fish_023_explain" id="1766025154" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe com focinho em forma de lança. Conhecido como o nadador mais rápido entre os peixes. Pode-se até dizer que é o Sonic do mar!
+    </text>
+    <text name="fish_086_name" id="1794079363">
+      Semente de Defesa Azul
+    </text>
+    <text name="fish_099_name" id="1814806273" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 6
+    </text>
+    <text name="fish_004_explain" id="1834769093" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A larva aquática de sapos. À medida que os girinos crescem, primeiro desenvolvem as pernas e depois os braços. Algumas espécies têm uma espiral na barriga.
+    </text>
+    <text name="fish_045_explain" id="1883203778" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Apesar de sua aparência encantadora, este é um tubarão-martelo genuíno. Não se deixe enganar pelo seu visual gracioso, pois ele pode ser perigoso.
+    </text>
+    <text name="fish_104_name" id="1890668796" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 11
+    </text>
+    <text name="fish_117_name" id="1911395706">
+      Anotação do Egg 24
+    </text>
+    <text name="fish_086_explain" id="1931638463">
+      Uma linda semente azul. Entregue-a ao Koco Eremita para aumentar a defesa do Sonic.
+    </text>
+    <text name="fish_101_explain" id="1934795203" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Estou encontrando várias conexões entre os Anciões e as Esmeraldas Chaos. A tecnologia deles parece concebida à base das esmeraldas. É quase como se tivessem a mesma origem. Gosto de um bom mistério, mas não quando as respostas são mais mistérios! Argh!
+    </text>
+    <text name="fish_026_explain" id="1951947717" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma lata vazia. Alguém deve ter consumido o conteúdo. O que será que tinha nela...?
+    </text>
+    <text name="fish_011_name" id="1981924097" font="Range_FNT" layout="Range_LAY">
+      Linguado
+    </text>
+    <text name="fish_024_name" id="2002651007" font="Range_FNT" layout="Range_LAY">
+      Mola amarela
+    </text>
+    <text name="fish_007_explain" id="2020691656" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura de água salgada que recebeu este nome por ser parecida com um cavalo.
+    </text>
+    <text name="fish_037_name" id="2023377917" font="Range_FNT" layout="Range_LAY">
+      Estrela-do-mar
+    </text>
+    <text name="fish_050_name" id="2062759046" font="Range_FNT" layout="Range_LAY">
+      Polvo-de-anel-azul
+    </text>
+    <text name="fish_048_explain" id="2069126341" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um Chopper pequeno. É feito de metal como sua contraparte maior, mas as peças semelhantes a ossos são mais delicadas.
+    </text>
+    <text name="fish_104_explain" id="2120717766" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Não acredito nisso!
+      Pedi que a Sage fizesse um diagnóstico do registro de dados genéticos dos Anciões e comparasse os resultados aos meus arquivos. São parentes do Chaos, o Deus da Destruição! Após vários anos, o DNA deles se deteriorou ao ponto de transformá-los em uma nova espécie. Passaram eras sob efeito de radiação, tornando-se irreconhecíveis... mas não para um gênio como eu.
+    </text>
+    <text name="fish_029_explain" id="2137870280" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma placa que permite saber que você chegou ao objetivo. Passar por ela dá uma sensação de dever cumprido.
+    </text>
+    <text name="fish_107_name" id="2221529209" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 14
+    </text>
+    <text name="fish_090_explain" id="2272236344" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma caixa de tesouro jogada no lago. A carta dourada que Big está procurando deve estar dentro dela.
+    </text>
+    <text name="fish_001_name" id="2292057600" font="Range_FNT" layout="Range_LAY">
+      Botia
+    </text>
+    <text name="fish_030_explain" id="2292545598" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura mecânica que se parece com um peixe. Não dá para comer, nem tente.
+    </text>
+    <text name="fish_107_explain" id="2306640329" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Apesar de todo o nosso esforço, Sage parece não ser capaz de controlar os Titãs. Droga. Ela pode mobilizá-los, mas alguma coisa está bloqueando o controle total.
+    </text>
+    <text name="fish_014_name" id="2312784510" font="Range_FNT" layout="Range_LAY">
+      Baiacu
+    </text>
+    <text name="fish_027_name" id="2333511420" font="Range_FNT" layout="Range_LAY">
+      Caixa de objetos
+    </text>
+    <text name="fish_011_explain" id="2361289537" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe salpicado de manchas e com aparência semelhante a um seixo. Habita o fundo de rios e lagos, onde sua pele serve de camuflagem para protegê-lo dos predadores.
+    </text>
+    <text name="fish_040_name" id="2372892549" font="Range_FNT" layout="Range_LAY">
+      Peixe-voador
+    </text>
+    <text name="fish_053_name" id="2393619459" font="Range_FNT" layout="Range_LAY">
+      Estrela-do-mar preta
+    </text>
+    <text name="fish_052_explain" id="2409724222" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um salmão grande encontrado em climas oceânicos relativamente frios. Sua carne é mais gordurosa que a do salmão comum.
+    </text>
+    <text name="fish_093_explain" id="2458158907" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um pergaminho escrito pelo Koco Eremita.
+      Leve o pergaminho de volta à ilha para desbloquear a viagem rápida até o Koco Eremita.
+    </text>
+    <text name="fish_092_name" id="2474454408" font="Range_FNT" layout="Range_LAY">
+      Pergaminho do Koco Ancestral
+    </text>
+    <text name="fish_033_explain" id="2478468161" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um dos anéis dourados que ajudaram Sonic no passado. Este parece ser uma obra de arte que não tem efeitos particulares.
+    </text>
+    <text name="fish_014_explain" id="2547212100" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe com duas aparências distintas. Embora geralmente pareça um peixe comum, ele incha quando está em perigo.
+    </text>
+    <text name="fish_110_name" id="2571043841" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 17
+    </text>
+    <text name="fish_055_explain" id="2595646785" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um enorme isópode vermelho. Ainda maior que o isópode gigante padrão, esta criatura espetacularmente grande pode ser considerada o rei dos isópodes.
+    </text>
+    <text name="fish_004_name" id="2622918013" font="Range_FNT" layout="Range_LAY">
+      Girino
+    </text>
+    <text name="fish_017_name" id="2643644923" font="Range_FNT" layout="Range_LAY">
+      Achigã
+    </text>
+    <text name="fish_096_explain" id="2644081470" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      O "terreno" daqui fica se deslocando. Estou encontrando recriações de regiões da South Island, West Side Island e até da Angel Island! De onde vêm esses dados ambientais?
+    </text>
+    <text name="fish_111_explain" id="2647238210" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage me contou uma piada hilária enquanto me passava o relatório.
+      "Quanto tempo leva para o Sonic estragar tudo? Nem um triz. Ele é a criatura mais rápida do mundo!"
+      Estou falando, ela tem a quem puxar. Bom, digo, para um programa. Não é como se ela estivesse viva.
+      Ou fosse da família. Ou... hmm.
+    </text>
+    <text name="fish_036_explain" id="2664390724" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe achatado com cauda longa. Dizem ser parente do tubarão, embora não se pareçam em nada. Tem brânquias distintas na parte inferior de seu corpo.
+    </text>
+    <text name="fish_030_name" id="2683026052" font="Range_FNT" layout="Range_LAY">
+      Chopper
+    </text>
+    <text name="fish_043_name" id="2703752962" font="Range_FNT" layout="Range_LAY">
+      Tabuleta antiga
+    </text>
+    <text name="fish_056_name" id="2724479872" font="Range_FNT" layout="Range_LAY">
+      Arraia vermelha
+    </text>
+    <text name="fish_017_explain" id="2733134663" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe muito comum, encontrado em climas temperados. A pesca do achigã é um passatempo popular e faz parte da pesca competitiva.
+    </text>
+    <text name="fish_058_explain" id="2781569348" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um enorme sapo venenoso mutante com um corpo iridescente. A dieta dele deve ser rica em alimentos multicoloridos.
+    </text>
+    <text name="fish_095_name" id="2805314821" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 2
+    </text>
+    <text name="fish_099_explain" id="2830004033" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Parece que as Starfall Islands são como a CPU do Ciberespaço. Depois que eu sair daqui, vou precisar defendê-las a qualquer custo. Não consigo acessar os dados com muita facilidade, mas parece que toda a história dos Anciões está gravada aqui no Ciberespaço. Mais do que isso! Registraram as lembranças deles, os desejos... é como se tivessem codificado a própria alma neste lugar. Pois bem, como posso usar isso a meu favor?
+    </text>
+    <text name="fish_114_explain" id="2833160773" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Foi o Sonic que me apelidou de "Eggman".
+      Mas azar o dele! Eu aceitei o nome! Eu o incorporei! O escárnio dele agora é um nome temido através dos tempos! Mas não vou aceitar "Zé Careca do Nariz Peludo". Minha dignidade tem limite.
+    </text>
+    <text name="fish_039_explain" id="2850313287" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe de nome dourado, mas de cor vermelha. Eles são criados por seu valor ornamental e não são encontrados na natureza.
+    </text>
+    <text name="fish_100_name" id="2881177344" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 7
+    </text>
+    <text name="fish_113_name" id="2901904254" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 20
+    </text>
+    <text name="fish_007_name" id="2953778426" font="Range_FNT" layout="Range_LAY">
+      Cavalo-marinho
+    </text>
+    <text name="fish_020_name" id="2993159555" font="Range_FNT" layout="Range_LAY">
+      Regaleco
+    </text>
+    <text name="fish_040_explain" id="3004988605" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe com barbatanas grandes. Em alto-mar, às vezes é possível vê-los saltando da água enquanto fogem de predadores.
+    </text>
+    <text name="fish_033_name" id="3013886465" font="Range_FNT" layout="Range_LAY">
+      Anel
+    </text>
+    <text name="fish_117_explain" id="3019083336" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      O Sonic está aqui, então não me surpreende que o Tails também esteja.
+      É uma pena. O jovem Prower tem uma mente perspicaz e muito potencial. No entanto, está obcecado em venerar o Sonic. Mas talvez seja melhor assim. Considerando todo o trabalho que ele me deu na Station Square e na ARK, prefiro que desperdice o potencial dele vivendo à sombra do Sonic.
+    </text>
+    <text name="fish_046_name" id="3034613375" font="Range_FNT" layout="Range_LAY">
+      Lata vermelha
+    </text>
+    <text name="fish_021_explain" id="3073732544" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe conhecido por seu sabor delicado. Todas as partes de seu corpo podem ser usadas na culinária e, em alguns casos, são até consumidas cruas. Geralmente, os cortes mais oleosos alcançam os preços mais altos.
+    </text>
+    <text name="fish_085_name" id="3115448324">
+      Semente de Potência Vermelha
+    </text>
+    <text name="fish_098_name" id="3136175234" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 5
+    </text>
+    <text name="fish_002_explain" id="3142476483" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe pequeno e esbelto, frequentemente encontrado em aquários domésticos. A gama de variantes é bem diversificada, incluindo aquelas com corpos esqueléticos translúcidos ou com pele multicolorida.
+    </text>
+    <text name="fish_043_explain" id="3190911168" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma tabuleta de pedra com inscrição. Ela tem a mesma mensagem em três idiomas, incluindo glifos misteriosos, que servem como uma chave para decifrá-los.
+    </text>
+    <text name="fish_103_name" id="3212037757" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 10
+    </text>
+    <text name="fish_116_name" id="3232764667">
+      Anotação do Egg 23
+    </text>
+    <text name="fish_024_explain" id="3259655107" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma mola amarela comum. Pisar em uma impulsiona você para o ar.
+    </text>
+    <text name="fish_010_name" id="3303293058" font="Range_FNT" layout="Range_LAY">
+      Salmão
+    </text>
+    <text name="fish_023_name" id="3324019968" font="Range_FNT" layout="Range_LAY">
+      Marlim
+    </text>
+    <text name="fish_005_explain" id="3328399046" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe tropical colorido que ganhou popularidade nos últimos anos. A maioria das variantes é vermelha, amarela ou laranja com listras brancas.
+    </text>
+    <text name="fish_036_name" id="3344746878" font="Range_FNT" layout="Range_LAY">
+      Arraia
+    </text>
+    <text name="fish_049_name" id="3365473788" font="Range_FNT" layout="Range_LAY">
+      Peixe-dourado platinado
+    </text>
+    <text name="fish_046_explain" id="3376833731" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma lata vermelha vazia. Talvez tivesse chili com carne para cachorro-quente.
+    </text>
+    <text name="fish_102_explain" id="3428425156" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Os Anciões parecem ter usado um grupo de ícones estranhos como suvenires ou totens. Essas mesmas imagens são usadas pelos Kocos que ficam nas ilhas. Será que os Kocos inspiraram os Anciões? Ou será que os Kocos adotaram o que restou depois que os Anciões se foram? Hmm.
+    </text>
+    <text name="fish_027_explain" id="3445577670" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma caixa contendo um item. Aplicar força faz o item saltar de dentro.
+    </text>
+    <text name="fish_008_explain" id="3514321609" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe encontrado em rios e lagoas. Ele come praticamente qualquer coisa e é muito usado para limpar cursos d'água.
+    </text>
+    <text name="fish_106_name" id="3542898170" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 13
+    </text>
+    <text name="fish_049_explain" id="3562756294" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixinho dourado com corpo platinado. Suas escamas brilhantes são, sem dúvida, muito mais valiosas do que as do tipo normal.
+    </text>
+    <text name="fish_000_name" id="3613426561" font="Range_FNT" layout="Range_LAY">
+      Gourami
+    </text>
+    <text name="fish_105_explain" id="3614347719" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Estou mobilizando minha inteligência artificial mais avançada para entrar na rede anciã que se estende pelas Starfall Islands.
+      Dei a ela o codinome "Sage". Sage vai tomar conta da rede alienígena, assumir o controle de todos os recursos e dá-los a mim!
+      ...Depois que eu sair daqui.
+    </text>
+    <text name="fish_013_name" id="3634153471" font="Range_FNT" layout="Range_LAY">
+      Polvo
+    </text>
+    <text name="fish_026_name" id="3654880381" font="Range_FNT" layout="Range_LAY">
+      Lata
+    </text>
+    <text name="fish_039_name" id="3675607291" font="Range_FNT" layout="Range_LAY">
+      Peixe-dourado
+    </text>
+    <text name="fish_052_name" id="3714988420" font="Range_FNT" layout="Range_LAY">
+      Salmão-rei
+    </text>
+    <text name="fish_050_explain" id="3717431612" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um polvo com um padrão de bolinhas. Embora tenha uma aparência chamativa, ele contém a mesma tetrodotoxina mortal que o baiacu.
+    </text>
+    <text name="fish_091_explain" id="3765866297" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma reluzente caixa de tesouro dourada. Deve conter algo MUITO caro...
+    </text>
+    <text name="fish_031_explain" id="3786175551" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Galho usado para construir ou consertar coisas. Também poderia alimentar fogo, se não estivesse tão encharcado.
+    </text>
+    <text name="fish_091_name" id="3795823369" font="Range_FNT" layout="Range_LAY">
+      Caixa de tesouro dourada
+    </text>
+    <text name="fish_108_explain" id="3800270282" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage não para de me passar dados, e já está ficando chato. Sim, o poder que exterminou os Anciões era formidável. Sim, soltá-lo neste mundo seria catastrófico. Mas eu sou um gênio. Quando sair daqui, vou descobrir como dar um jeito nisso. Ou melhor, vou usar isso contra o Sonic!
+    </text>
+    <text name="fish_012_explain" id="3854919490" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um peixe de corpo arredondado que vive no fundo do mar. O nome faz referência ao formato de seu corpo.
+    </text>
+    <text name="fish_109_name" id="3873758583" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 16
+    </text>
+    <text name="fish_053_explain" id="3903354175" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma estrela-do-mar preta. O preto é a cor ideal para camuflagem no fundo do oceano, onde a luz do sol nunca alcança.
+    </text>
+    <text name="fish_003_name" id="3944286974" font="Range_FNT" layout="Range_LAY">
+      Lagostim
+    </text>
+    <text name="fish_094_explain" id="3951788860" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Tem alguma força me impedindo de sair do Ciberespaço. Será que é porque a minha I.A. fez um acesso não autorizado aos bancos de dados? Nesse caso, é o completo oposto do que ela deveria ter feito!
+    </text>
+    <text name="fish_016_name" id="3965013884" font="Range_FNT" layout="Range_LAY">
+      Jacaré
+    </text>
+    <text name="fish_034_explain" id="3972098114" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um pneu para veículos. Eles vêm em uma variedade de tamanhos e bandas de rodagem, mas este parece ser para um carro de passeio comum.
+    </text>
+    <text name="fish_029_name" id="3985740794" font="Range_FNT" layout="Range_LAY">
+      Placa de Objetivo
+    </text>
+    <text name="fish_042_name" id="4025121923" font="Range_FNT" layout="Range_LAY">
+      Tubarão-martelo
+    </text>
+    <text name="fish_015_explain" id="4040842053" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um crustáceo aquático. Embora conhecido por sua caminhada lateral e garras afiadas, algumas espécies são hábeis em se mover para frente e para trás ou nadar.
+    </text>
+    <text name="fish_055_name" id="4045848833" font="Range_FNT" layout="Range_LAY">
+      Isópode gigante vermelho
+    </text>
+    <text name="fish_056_explain" id="4089276738" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma arraia com espinhos venenosos na cauda. O veneno continua sendo letal mesmo depois de morta.
+    </text>
+    <text name="fish_094_name" id="4126683782" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 1
+    </text>
+    <text name="fish_097_explain" id="4137711423" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Encontrei elementos da minha própria EggNet, da Federação Unida e até dados referentes à raça do planeta Donpa Kingdom! Pelo que entendi, este Ciberespaço se estende para muito além do escopo destas ilhas e está obtendo informações do mundo todo. Fascinante!
+    </text>
+    <text name="fish_112_explain" id="4140868163" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Quem disse que eu não poderia gerar vida, hein?
+      É só um monte de proteínas juntas. Qualquer um consegue fazer isso. Um gênio de verdade faz isso com código e elétrons! E, se eu realmente gerasse vida, ela seria brilhante e perfeitamente eficiente! Sabe por quê? Porque o pai dela é um gênio!
+    </text>
+    <text name="fish_037_explain" id="4158020677" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma criatura marinha plana de pele espinhosa. Ela se move pelo leito do mar usando os inúmeros pés tubulares na parte inferior. Há quem coma estrelas-do-mar ou use na medicina tradicional.
+    </text>
+    <text name="fish_112_name" id="4223273215" font="Range_FNT" layout="Range_LAY">
+      Anotação do Egg 19
+    </text>
+    <text name="fish_018_explain" id="4226764616" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Um tipo de carpa com corpo vermelho, branco e preto. Foi criada por seu apelo ornamental, e sua pele lembra tecido brocado.
+    </text>
+    <text name="fish_090_explain_1" id="4239035018" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Uma das cartas douradas que Big coleciona. Se você der 1 carta para ele, talvez receba algo em troca para ajudar na sua jornada.
+    </text>
+    <text name="fish_006_name" id="4275147387" font="Range_FNT" layout="Range_LAY">
+      Lula
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_itemdetail">
+      <typeface>RANGEmixStd</typeface>
+      <size>28</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_itemdetail">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

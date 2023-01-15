@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb2000_010" id="1510370109" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Olha só o tamanho dessa... como isso se chama mesmo? Antena parabólica? É pra comunicação, não é?
+    </text>
+    <text name="sb2000_020" id="1510370236" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sim. Já vi todo tipo de tecnologia avançada antiga nas duas ilhas.
+    </text>
+    <text name="sb2000_030" id="1510370363" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Como algo tão antigo pode ser tão avançado? E resistente também. Dei um soco e o negócio nem se mexeu.
+    </text>
+    <text name="sb2000_040" id="1510370490" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Knux... não dá soco nas ruínas. Depois que eu encontrar o Tails,
+      talvez ele consiga descobrir o que aconteceu aqui.
+    </text>
+    <text name="sb2000_050" id="1510370617" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ei! Já descobri que é mais resistente do que qualquer coisa que a gente já viu.
+      Acho que esse material não é desse mundo.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb1070_010" id="1582971191" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Esse lugar é lindo, mas tem uma solidão aqui. A terra parece triste e vazia.
+    </text>
+    <text name="sb1070_020" id="1582971318" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, eu tive a mesma sensação. Deve tá relacionado às ruínas, aos robôs esquisitos
+      e a outras coisas que a gente encontrou.
+    </text>
+    <text name="sb1070_030" id="1582971445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mas o lado bom é que eu tenho bastante espaço pra correr.
+    </text>
+    <text name="sb1070_040" id="1582971572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      E nunca se sabe quantos caminhos novos você pode descobrir!
+    </text>
+    <text name="sb1070_050" id="1582971699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É, vou tentar não me divertir DEMAIS enquanto tento descobrir uma forma de recuperar você!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="sb4000_010" id="45871675" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Quando os Anciões chegaram a este mundo, eles prepararam as ilhas para serem seu novo lar.
+      Este lugar em especial era destinado a preces e reflexão. Eles queriam viver em paz.
+    </text>
+    <text name="sb4000_020" id="45871802" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Quando descobriram que o inimigo estava aqui, eles se prepararam para defender este mundo.
+      Muralhas, canhões, torres, tudo para realizar uma última defesa desesperada.
+    </text>
+    <text name="sb4000_030" id="45871929" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Isso explica tudo o que a gente viu no caminho. Fiquei me perguntando se estavam se preparando
+      pra uma batalha. Agora eu sei.
+    </text>
+    <text name="sb4000_040" id="45872056" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aqui é onde os Anciões se reuniam para passar tempo juntos.
+      Para apreciar a companhia dos que tinham restado.
+    </text>
+    <text name="sb4000_050" id="45872183" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      É por isso que registravam tudo. A história, as ambições, as esperanças, os sonhos...
+      para que nunca desaparecessem de verdade.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

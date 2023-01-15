@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="pt" index="9">
+    <text name="si3000_136" id="2643612360" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Parece que o Eggman tá aproveitando a energia geotérmica.
+      Rá! Nunca pensei que ele fosse virar sustentável.
+    </text>
+    <text name="si3000_142" id="2643612483" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Não parece um farol. Uma torre de vigia, talvez?
+    </text>
+    <text name="si3000_148" id="2643612489" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      De todos os templos antigos que já fui, esse deve ser o mais legal!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
