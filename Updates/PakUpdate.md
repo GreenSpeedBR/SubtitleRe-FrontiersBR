@@ -1,5 +1,5 @@
 ## Brazilian Portuguese Localization Remastered > Version 2.0.7 (Minor Update)
-- (Date: 01/14/2022) - 12:28 PM
+- (Date: 01/15/2022) - 12:28 PM
 - » Revisão Nos Textos da UI da Tela de Título e Nas Demais Legendas "DLC's" para "Conteúdo Adicional" » Feedback feito por Junior Passos.
 --------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.6 (Minor Update)
