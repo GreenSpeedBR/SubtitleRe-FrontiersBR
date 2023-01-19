@@ -1,6 +1,10 @@
-## Brazilian Portuguese Localization Remastered > Version 2.0.8 (Update)
+## Brazilian Portuguese Localization Remastered > Version 2.0.8b (Adjustament)
+- (Date: 01/19/2022) - 19:03 PM
+- » Texto da Loja do Big (UI)
+--------------------------------------------------------------------------------------------------
+## Brazilian Portuguese Localization Remastered > Version 2.0.8a (Update)
 - (Date: 01/19/2022) - 18:09 PM
-- » Ajustes Nos Textos da UI dos Registros de Voz do Eggman/Minigame de Pesca do Big + Loja.
+- » Mudanças Nos Textos da UI dos Registros de Voz do Eggman/Minigame de Pesca do Big + Loja.
 --------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.7 (Minor Update)
 - (Date: 01/15/2022) - 12:28 PM
