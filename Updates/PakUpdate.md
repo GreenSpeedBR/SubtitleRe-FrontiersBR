@@ -1,6 +1,6 @@
 ## Brazilian Portuguese Localization Remastered > Version 2.0.8b (Adjustament)
 - (Date: 01/19/2022) - 19:03 PM
-- » Ajustes No Texto da Loja do Big.
+- » Ajustes No Texto da (UI) Loja do Big.
 --------------------------------------------------------------------------------------------------
 ## Brazilian Portuguese Localization Remastered > Version 2.0.8a (Update)
 - (Date: 01/19/2022) - 18:09 PM
